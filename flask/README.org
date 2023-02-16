@@ -27,9 +27,9 @@ folder. Make sure to use the filenames specified in the assignments.
 
 
 
-* Last name:
-* First name:
-* Github username:
+* Last name: Park
+* First name: Moo Joon (Mike)
+* Github username: michaelpark677
 
 * Instructions:
 
