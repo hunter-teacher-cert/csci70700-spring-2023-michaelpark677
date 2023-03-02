@@ -79,4 +79,8 @@ folder. Make sure to use the filenames specified in the assignments.
 
 https://replit.com/@michaelpark677/Demo-Flask-Project#main.py
 
+Link to the session homework:
+https://replit.com/join/luhuntjhtx-michaelpark677
 
+Link to the forms homework: (* I couldn't get this code to output correctly. I tried debugging but it wouldn't show the form as displayed in the video. The only output it kept showing was "Hello from Flask!"
+https://replit.com/join/gzfqsfbhxu-michaelpark677
