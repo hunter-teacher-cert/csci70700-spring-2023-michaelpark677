@@ -25,7 +25,7 @@ The homework will be posted in the #cstopics-hw channel.
 Upload your solutions to the assigned homework in the appropriate
 folder. Make sure to use the filenames specified in the assignments.
 
-This is the MILD level for the homework assignment. I've made changes to the positions, rotations, sizes, and colors for the three snowmen. Here is the link to the assignment:
+This is the MILD/SPICY level for the homework assignment. I've made changes to the positions, rotations, sizes, and colors for the three snowmen. I also added a sun on the top right corner of the scene. Here is the link to the assignment:
 https://replit.com/join/jgomnmcmbg-michaelpark677
 
 I will work on the other levels, time permitting.
